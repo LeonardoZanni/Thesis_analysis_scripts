@@ -16,7 +16,7 @@ They are provided here for reproducibility and as supplementary material to the 
 
 ── Lethargus_substraction.m                                         # MATLAB: Extracts movement intensity traces from timelapse stacks
 ── Lethargus_selector.m                                             # MATLAB: Aligns data to molt time and selects time window
-── Bout_detection .m and Lethargus_selector_analyzer.m                # MATLAB: Detects quiescence bouts based on speed thresholds adn calculates sleepfraction
+── Bout_detection .m and Lethargus_selector_analyzer.m              # MATLAB: Detects quiescence bouts based on speed thresholds adn calculates sleepfraction
 ── Analysis_synapsis_backgrounsubstraction.m                        # MATLAB: Measures GFP/RFP signal and size in T-piece & nervring
 ── Volume_tpiece_Analyzer.ijm                                       # Fiji macro: Measures 3D volume of the T-piece
 ── README.md                                                        # This file
